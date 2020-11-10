@@ -4,17 +4,20 @@ h1 {
    color: rgb(231, 39, 39);
 }
 body {
-   font-size: 30px;
+   font-size: 20px;
    div {
       font-size: 10px;
    }
 }
 .block {
    &__item {
-      font-size: 30px;
+      font-size: 20px;
    }
 }
 
 .red {
    color: rgb(97, 0, 0) (163, 151, 151);
+}
+.bobik {
+   font-size: 50px;
 }

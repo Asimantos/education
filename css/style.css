@@ -1,0 +1,27 @@
+header {
+  background-color: #d6bbbb;
+}
+
+h1 {
+  color: #e72727;
+}
+
+body {
+  font-size: 20px;
+}
+
+body div {
+  font-size: 10px;
+}
+
+.block__item {
+  font-size: 20px;
+}
+
+.red {
+  color: #610000 163, 151, 151;
+}
+
+.bobik {
+  font-size: 50px;
+}
