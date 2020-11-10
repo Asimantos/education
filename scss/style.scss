@@ -1,7 +1,7 @@
 @import "_header";
 
 h1 {
-   color: green;
+   color: rgb(254, 255, 254)40, 172, 140);
 }
 body {
    font-size: 30px;
@@ -11,12 +11,10 @@ body {
 }
 .block {
    &__item {
+      font-size: 30px;
    }
 }
-.block {
-}
-.block__item {
-}
+
 .red {
    color: red;
 }
